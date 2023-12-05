@@ -1,0 +1,22 @@
+html {
+  background-color: rgb(30, 28, 28);
+}
+
+#alarm-set-p {
+  font-size: 50px;
+}
+
+.large {
+  height: 300px;
+  text-align: center;
+  color: aliceblue;
+  font-family: sans-serif;
+  font-size: 150px;
+  margin-top: 200px;
+}
+
+#clock-controls {
+  text-align: center;
+  font-size: 40px;
+  color: aliceblue;
+}
